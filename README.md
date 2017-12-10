@@ -1,4 +1,4 @@
-## Personal web site
+## Our web site
 
-My personal web site is hosted here. Rendered version [here](http://adeajayi-kunle.github.io/)
+Visit our rendered version [here](http://grenoble-dataclub.github.io/)
 
