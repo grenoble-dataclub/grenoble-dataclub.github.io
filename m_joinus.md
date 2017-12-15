@@ -33,6 +33,9 @@ Status : <br>
 Subject:<br>
 <input type="text" name="courseofstudy" size="40"><br><br>
 
+Laboratory:<br>
+<input type="text" name="laboratory" size="50"><br><br>
+
 Email :<br>
 <input type="text" name="email" size="40"><br>
 <br>
